@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryService", "InventoryService\InventoryService.csproj", "{9448343D-47AE-4E81-B424-9C188381B99F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderService\OrderService.csproj", "{1590CC08-F191-4BFF-848C-D24366370806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9448343D-47AE-4E81-B424-9C188381B99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9448343D-47AE-4E81-B424-9C188381B99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9448343D-47AE-4E81-B424-9C188381B99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9448343D-47AE-4E81-B424-9C188381B99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1590CC08-F191-4BFF-848C-D24366370806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1590CC08-F191-4BFF-848C-D24366370806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1590CC08-F191-4BFF-848C-D24366370806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1590CC08-F191-4BFF-848C-D24366370806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14DEC051-5984-4781-B388-5C465B8CB468}
+	EndGlobalSection
+EndGlobal
